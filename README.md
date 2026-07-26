@@ -43,7 +43,7 @@ The system acquires 6-axis inertial measurements at 500 Hz, performs sensor cali
 
 ## Usage
 
-1. Upload `MPU6050/MPU6050.ino` to the Arduino Mega.
+1. Upload `MPU6050.ino` to the Arduino Mega.
 2. Connect the MPU6050 through I2C.
 3. Install the required Python packages.
 4. Run:
