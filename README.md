@@ -1,4 +1,4 @@
-# Real-Time IMU Sensing and 3D Motion Visualization
+# Real Time MPU6050 Inertial Sensing and 3D Motion Visualization Using Arduino Mega and Python
 
 A real-time inertial sensing and visualization system based on the MPU6050 IMU, Arduino Mega, Python, and OpenGL.
 
